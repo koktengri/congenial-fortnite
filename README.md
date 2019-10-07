@@ -9,4 +9,4 @@ This project is currently early in development and not yet usable.
 
 
 ## Copyright
-Kaan Erdogmus© All rights Reserved
+All rights reserved
